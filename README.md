@@ -1,6 +1,6 @@
 ### Oi, Eu sou o Filipe Correia 
 
-- 🔭 Hoje estou trabalhando com Analista de suporte 
+- 🔭 Hoje estou trabalhando com Analista de suporte e progrmador nas horas vagas 
 - 🌱 Estou estudando programação back-end
 
 
@@ -12,13 +12,13 @@
 </div>
   
  <!--Icones de tecnologias --> 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" ><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
 </div>
  

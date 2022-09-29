@@ -1,7 +1,7 @@
 ### Oi, Eu sou o Filipe Correia 
 
 - 🔭 Hoje estou trabalhando com Analista de suporte 
-- 🌱 Estou estudando Python
+- 🌱 Estou estudando programação back-end
 
 
 <!--Graficos -->

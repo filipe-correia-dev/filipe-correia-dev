@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oi, Eu sou o Filipe Correia 
+
+- 🔭 Hoje estou trabalhando com Analista de suporte 
+- 🌱 Estou estudando Python
+
+<div align="center">
+  <a href="https://github.com/filipe-correia-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-correia-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-correia-dev&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!--
 **filipe-correia-dev/filipe-correia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

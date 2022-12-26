@@ -1,6 +1,6 @@
 ### Oi, Eu sou o Filipe Correia 
 
-- 🔭 Hoje estou trabalhando com Analista de suporte e progrmador nas horas vagas 
+- 🔭 Hoje estou trabalhando com Analista de suporte e programador nas horas vagas 
 - 🌱 Estou estudando programação back-end
 
 
